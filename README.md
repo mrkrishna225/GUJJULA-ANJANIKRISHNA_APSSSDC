@@ -1,29 +1,6 @@
-# Keystroke Sentinel — Educational Keystroke Dynamics & System Logger
+# Keylogger — APSSDC Project
 
-> Educational cybersecurity research project demonstrating keystroke logging mechanics and defensive mitigation strategies.
+A keylogger built in Python for an APSSDC cybersecurity course. Demonstrates how keystroke
+capture works at the OS level, along with notes on detection and defense.
 
-### Tech Stack & Topics
-`cybersecurity` | `python` | `ethical-hacking` | `infosec`
-
-
-A cybersecurity research project developed under APSSDC demonstrating the mechanics of operating system event capture, low-overhead background activity monitoring, and corresponding defensive countermeasures.
-
-###  Tech Stack & Topics
-`cybersecurity` `python` `ethical-hacking` `infosec`
-
----
-
-###  Security & Educational Disclaimer
-> ** Educational Purpose Only:** This repository was created strictly for cybersecurity research, academic demonstration, and defensive threat modeling. It is intended to help security engineers understand how input telemetry is captured and how to detect and neutralize unauthorized background listeners.
-
----
-
-###  Getting Started
-```bash
-git clone https://github.com/mrkrishna225/GUJJULA-ANJANIKRISHNA_APSSSDC.git
-cd GUJJULA-ANJANIKRISHNA_APSSSDC
-```
-
-<div align="center">
-  <sub>Maintained by <a href="https://github.com/mrkrishna225"><b>mrkrishna225</b></a></sub>
-</div>
+**Educational purposes only.** Full source code and sample output included.
